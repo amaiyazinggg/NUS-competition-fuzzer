@@ -1,5 +1,5 @@
 # Competition Participant Fuzzer
-Template repository for the Fuzzing Competition
+Test Edit - Template repository for the Fuzzing Competition
 
 ## Competition Entry Instructions
 1. Fork this template repo (keep it [private](https://gist.github.com/0xjac/85097472043b697ab57ba1b1c7530274) to avoid integrity disputes)
